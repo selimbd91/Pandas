@@ -7,4 +7,5 @@ my_dict = {"Name" : ["sellim", "rahim"],
 print(my_dict)
 
 df = pd.DataFrame(my_dict)
+print((type(df)))
 print(df)
